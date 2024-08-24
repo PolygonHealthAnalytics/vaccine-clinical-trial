@@ -1,0 +1,51 @@
+id,nct_id,mesh_term,downcase_mesh_term,mesh_type
+167189069,NCT05611034,Oxaliplatin,oxaliplatin,mesh-list
+167189980,NCT00002896,Cobalt,cobalt,mesh-list
+167190321,NCT04778072,Iron,iron,mesh-list
+167190435,NCT04777838,Citalopram,citalopram,mesh-list
+167190529,NCT00003478,Antibodies,antibodies,mesh-list
+167190576,NCT00003490,Anti-Inflammatory Agents,anti-inflammatory agents,mesh-ancestor
+167190654,NCT00003064,Paclitaxel,paclitaxel,mesh-list
+167190877,NCT00062738,Paroxetine,paroxetine,mesh-list
+167191859,NCT00003730,Fluorouracil,fluorouracil,mesh-list
+167191935,NCT00004006,Cyclophosphamide,cyclophosphamide,mesh-list
+167192007,NCT00003754,Anti-Infective Agents,anti-infective agents,mesh-ancestor
+167192159,NCT00003784,Cyclophosphamide,cyclophosphamide,mesh-list
+167192246,NCT00003364,Etoposide,etoposide,mesh-list
+167192321,NCT00004858,Genistein,genistein,mesh-list
+167192688,NCT05776186,Sensory System Agents,sensory system agents,mesh-ancestor
+167192843,NCT05042817,Sufentanil,sufentanil,mesh-list
+167193000,NCT02291055,Durvalumab,durvalumab,mesh-list
+167193376,NCT00005002,Lamivudine,lamivudine,mesh-list
+167193600,NCT00097448,Antiemetics,antiemetics,mesh-ancestor
+167194057,NCT00004450,Interferons,interferons,mesh-list
+167194196,NCT00101660,Dasatinib,dasatinib,mesh-list
+167194437,NCT00103376,Bortezomib,bortezomib,mesh-list
+167194574,NCT00052442,Folic Acid Antagonists,folic acid antagonists,mesh-ancestor
+167195030,NCT02176031,Methylprednisolone Acetate,methylprednisolone acetate,mesh-list
+167195182,NCT00258362,Carboplatin,carboplatin,mesh-list
+167195339,NCT01899248,Desflurane,desflurane,mesh-list
+167195406,NCT00265616,"Anesthetics, Intravenous","anesthetics, intravenous",mesh-ancestor
+167195482,NCT03009097,Atorvastatin,atorvastatin,mesh-list
+167195634,NCT01084265,Hormones,hormones,mesh-list
+167195704,NCT01332253,Ibuprofen,ibuprofen,mesh-list
+167195930,NCT01121939,Gastrointestinal Agents,gastrointestinal agents,mesh-ancestor
+167196598,NCT04087460,Immunologic Factors,immunologic factors,mesh-ancestor
+167196672,NCT01138475,Vitamins,vitamins,mesh-ancestor
+167197428,NCT01481545,Vitamins,vitamins,mesh-ancestor
+167197936,NCT01793870,Carvedilol,carvedilol,mesh-list
+167198084,NCT04422678,Antineoplastic Agents,antineoplastic agents,mesh-ancestor
+167198314,NCT05901194,Lenvatinib,lenvatinib,mesh-list
+167198452,NCT05672173,Cyclophosphamide,cyclophosphamide,mesh-list
+167198528,NCT05213221,Lenvatinib,lenvatinib,mesh-list
+167198762,NCT04379713,Vaccines,vaccines,mesh-list
+167199519,NCT05250050,Antacids,antacids,mesh-ancestor
+167199734,NCT01658904,Melphalan,melphalan,mesh-list
+167200252,NCT00471380,Timolol,timolol,mesh-list
+167200419,NCT00424502,Rituximab,rituximab,mesh-list
+167200880,NCT03246620,Anesthetics,anesthetics,mesh-ancestor
+167200938,NCT00436904,Rituximab,rituximab,mesh-list
+167201034,NCT05021094,Estradiol,estradiol,mesh-list
+167201305,NCT00519584,Bupivacaine,bupivacaine,mesh-list
+167201391,NCT01796444,Hormones,hormones,mesh-list
+167201752,NCT03236792,Antineoplastic Agents,antineoplastic agents,mesh-ancestor

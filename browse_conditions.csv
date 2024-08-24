@@ -1,0 +1,51 @@
+id,nct_id,mesh_term,downcase_mesh_term,mesh_type
+345108959,NCT05245825,Prediabetic State,prediabetic state,mesh-list
+345108960,NCT05245825,Diabetes Mellitus,diabetes mellitus,mesh-ancestor
+345108961,NCT05245825,Glucose Metabolism Disorders,glucose metabolism disorders,mesh-ancestor
+345108962,NCT05245825,Metabolic Diseases,metabolic diseases,mesh-ancestor
+345108963,NCT05245825,Endocrine System Diseases,endocrine system diseases,mesh-ancestor
+345108964,NCT05651490,Diabetes Mellitus,diabetes mellitus,mesh-list
+345108965,NCT05651490,"Diabetes Mellitus, Type 2","diabetes mellitus, type 2",mesh-list
+345108966,NCT05651490,Glucose Metabolism Disorders,glucose metabolism disorders,mesh-ancestor
+345108967,NCT05651490,Metabolic Diseases,metabolic diseases,mesh-ancestor
+345108968,NCT05651490,Endocrine System Diseases,endocrine system diseases,mesh-ancestor
+345108969,NCT05469607,Crohn Disease,crohn disease,mesh-list
+345108970,NCT05469607,Inflammatory Bowel Diseases,inflammatory bowel diseases,mesh-ancestor
+345108971,NCT05469607,Gastroenteritis,gastroenteritis,mesh-ancestor
+345108972,NCT05469607,Gastrointestinal Diseases,gastrointestinal diseases,mesh-ancestor
+345108973,NCT05469607,Digestive System Diseases,digestive system diseases,mesh-ancestor
+345108974,NCT05469607,Intestinal Diseases,intestinal diseases,mesh-ancestor
+345108975,NCT04343911,Peripheral Nervous System Diseases,peripheral nervous system diseases,mesh-list
+345108976,NCT04343911,Postoperative Complications,postoperative complications,mesh-list
+345108977,NCT04343911,Neuromuscular Diseases,neuromuscular diseases,mesh-ancestor
+345108978,NCT04343911,Nervous System Diseases,nervous system diseases,mesh-ancestor
+345108979,NCT04343911,Pathologic Processes,pathologic processes,mesh-ancestor
+345108980,NCT05651412,Frailty,frailty,mesh-list
+345108981,NCT05651412,Pathologic Processes,pathologic processes,mesh-ancestor
+345108982,NCT02465450,Cystic Fibrosis,cystic fibrosis,mesh-list
+345108983,NCT02465450,Fibrosis,fibrosis,mesh-list
+345108984,NCT02465450,Pathologic Processes,pathologic processes,mesh-ancestor
+345108985,NCT02465450,Pancreatic Diseases,pancreatic diseases,mesh-ancestor
+345108986,NCT02465450,Digestive System Diseases,digestive system diseases,mesh-ancestor
+345108987,NCT02465450,Lung Diseases,lung diseases,mesh-ancestor
+345108988,NCT02465450,Respiratory Tract Diseases,respiratory tract diseases,mesh-ancestor
+345108989,NCT02465450,"Genetic Diseases, Inborn","genetic diseases, inborn",mesh-ancestor
+345108990,NCT02465450,"Infant, Newborn, Diseases","infant, newborn, diseases",mesh-ancestor
+345108991,NCT00358345,Macular Degeneration,macular degeneration,mesh-list
+345108992,NCT00358345,Choroidal Neovascularization,choroidal neovascularization,mesh-list
+345108993,NCT00358345,"Neovascularization, Pathologic","neovascularization, pathologic",mesh-list
+345108994,NCT00358345,Retinal Degeneration,retinal degeneration,mesh-ancestor
+345108995,NCT00358345,Retinal Diseases,retinal diseases,mesh-ancestor
+345108996,NCT00358345,Eye Diseases,eye diseases,mesh-ancestor
+345108997,NCT00358345,Metaplasia,metaplasia,mesh-ancestor
+345108998,NCT00358345,Pathologic Processes,pathologic processes,mesh-ancestor
+345108999,NCT00358345,Choroid Diseases,choroid diseases,mesh-ancestor
+345109000,NCT00358345,Uveal Diseases,uveal diseases,mesh-ancestor
+345109001,NCT04000152,Infertility,infertility,mesh-list
+345109002,NCT04000152,Chromosome Disorders,chromosome disorders,mesh-list
+345109003,NCT04000152,Aneuploidy,aneuploidy,mesh-list
+345109004,NCT04000152,Chromosome Aberrations,chromosome aberrations,mesh-list
+345109005,NCT04000152,Genital Diseases,genital diseases,mesh-ancestor
+345109006,NCT04000152,Urogenital Diseases,urogenital diseases,mesh-ancestor
+345109007,NCT04000152,Congenital Abnormalities,congenital abnormalities,mesh-ancestor
+345109008,NCT04000152,Pathologic Processes,pathologic processes,mesh-ancestor
