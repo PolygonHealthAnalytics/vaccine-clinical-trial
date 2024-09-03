@@ -1,0 +1,146 @@
+{
+    "inner_circle": [
+        {
+            "label": "Interventional",
+            "size": 9521,
+            "percentage": 87.5
+        },
+        {
+            "label": "Observational",
+            "size": 1360,
+            "percentage": 12.5
+        }
+    ],
+    "outer_circle": [
+        {
+            "label": "Parallel Assignment",
+            "size": 6262,
+            "percentage": 65.8
+        },
+        {
+            "label": "Parallel Assignment",
+            "size": 0,
+            "percentage": 0.0
+        },
+        {
+            "label": "Single Group\nAssignment",
+            "size": 2532,
+            "percentage": 26.6
+        },
+        {
+            "label": "Single Group\nAssignment",
+            "size": 0,
+            "percentage": 0.0
+        },
+        {
+            "label": "Sequential\nAssignment",
+            "size": 544,
+            "percentage": 5.7
+        },
+        {
+            "label": "Sequential\nAssignment",
+            "size": 0,
+            "percentage": 0.0
+        },
+        {
+            "label": "Factorial Assignment",
+            "size": 106,
+            "percentage": 1.1
+        },
+        {
+            "label": "Factorial Assignment",
+            "size": 0,
+            "percentage": 0.0
+        },
+        {
+            "label": "Crossover Assignment",
+            "size": 77,
+            "percentage": 0.8
+        },
+        {
+            "label": "Crossover Assignment",
+            "size": 0,
+            "percentage": 0.0
+        },
+        {
+            "label": "Cohort",
+            "size": 0,
+            "percentage": 0.0
+        },
+        {
+            "label": "Cohort",
+            "size": 871,
+            "percentage": 64
+        },
+        {
+            "label": "Case-Control",
+            "size": 0,
+            "percentage": 0.0
+        },
+        {
+            "label": "Case-Control",
+            "size": 172,
+            "percentage": 12.6
+        },
+        {
+            "label": "Case-Only",
+            "size": 0,
+            "percentage": 0.0
+        },
+        {
+            "label": "Case-Only",
+            "size": 133,
+            "percentage": 9.8
+        },
+        {
+            "label": "Other",
+            "size": 0,
+            "percentage": 0.0
+        },
+        {
+            "label": "Other",
+            "size": 117,
+            "percentage": 8.6
+        },
+        {
+            "label": "Ecologic or Community",
+            "size": 0,
+            "percentage": 0.0
+        },
+        {
+            "label": "Ecologic or Community",
+            "size": 49,
+            "percentage": 3.6
+        },
+        {
+            "label": "Case-Crossover",
+            "size": 0,
+            "percentage": 0.0
+        },
+        {
+            "label": "Case-Crossover",
+            "size": 9,
+            "percentage": 0.6
+        },
+        {
+            "label": "Family-Based",
+            "size": 0,
+            "percentage": 0.0
+        },
+        {
+            "label": "Family-Based",
+            "size": 7,
+            "percentage": 0.5
+        },
+        {
+            "label": "Defined Population",
+            "size": 0,
+            "percentage": 0.0
+        },
+        {
+            "label": "Defined Population",
+            "size": 2,
+            "percentage": 0.1
+        }
+    ]
+}
