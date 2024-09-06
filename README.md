@@ -104,7 +104,7 @@ The notebooks include various analyses and visualizations, such as:
 - Analysis of trial phases and statuses
 - Study types and experimental designs
 - Number of vaccine trials per indication
-[visualization](https://polygonhealthanalytics.github.io/vaccine-clinical-trial/)
+- [visualization](https://polygonhealthanalytics.github.io/vaccine-clinical-trial/)
 
 #### Future Work
 
