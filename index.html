@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vaccine Trials EDA Plots</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .chart {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 50px;
+        }
+    </style>
+    <link rel="icon" href="favicon.ico" type="image/x-icon"> 
+</head>
+<body>
+    <div id="by-year-hbar" class="chart"></div> 
+    <div id="top-20-country-chart" class="chart"></div> 
+    <div id="stacked-bar-chart" class="chart"></div>
+    <div id="pie-status-counts" class="chart"></div>
+    <div id="pie-primary-purpose-chart" class="chart"></div>
+    <div id="nested-pie-chart-purpose-study" class="chart"></div>
+    <div id="nested-pie-chart-phase-status" class="chart"></div>
+    <div id="nested-pie-chart-study-designs" class="chart"></div>
+    <div id="top-conditions-chart" class="chart"></div>
+    <div id="line-conditions-year" class="chart"></div>
+    <div id="tooltip" style="position: absolute; visibility: hidden; background-color: white; border: 1px solid black; padding: 5px;"></div>
+
+    <script src="vaccine_trials_by_year.js"></script> 
+    <script src="top_20_country_counts.js"></script> 
+    <script src="stacked_bar_chart.js"></script>
+    <script src="pie_status_counts.js"></script>
+    <script src="primary_purpose_counts.js"></script>
+    <script src="nested_primary_purpose_study_type.js"></script>
+    <script src="nested_phase_status.js"></script>
+    <script src="nested_study_types_designs.js"></script>
+    <script src="top_conditions.js"></script>
+    <script src="line_top_conditions_year.js"></script>
+     
+</body>
+</html>
